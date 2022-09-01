@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './pebble-ui'
+// import './pebble-ui'
 // import CAPI from '@vue/composition-api'
 Vue.config.productionTip = false
 import EleUI from 'element-ui'
